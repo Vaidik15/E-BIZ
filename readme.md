@@ -52,6 +52,7 @@ mvn clean install
 mvn spring-boot:run
 Access the Platform Visit: http://localhost:8080
 ```
+---
 
 🔍 Key Features
 ✅ Business registration and profile management
@@ -63,6 +64,8 @@ Access the Platform Visit: http://localhost:8080
 ✅ Admin panel for moderation and management
 
 ✅ Secure authentication & role-based access control
+
+---
 
 🤖 AI-Based Enhancements (Future Scope)
 We're planning AI integrations to further enhance collaboration:
@@ -84,8 +87,5 @@ Intelligent dashboards: Provide data-driven insights and alerts to guide decisio
 
  Integration with WhatsApp and email alerts for collaboration
 
-👨‍💻 Authors
-Vaidik Mishra
-
-Vinit Singh
+ ---
 
